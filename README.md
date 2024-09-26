@@ -14,6 +14,11 @@
     👩‍💻 <strong>Programando desde que "funciona na minha máquina"</strong> <br>
     🚀 <strong>Atualmente aprendendo Rust</strong> para explorar novas fronteiras em performance e segurança <br>
     🐍 <strong>Especialista em Python:</strong> A linguagem que me ensinou que "import this" pode mudar a vida <br>
+    🌟 <strong>Java:</strong> Usada para construir aplicações robustas e escaláveis, especialmente em ambientes corporativos <br>
+    🎨 <strong>JavaScript:</strong> A linguagem que traz vida ao frontend, permitindo criar interfaces interativas e dinâmicas <br>
+    🦄 <strong>Dart:</strong> Perfeita para desenvolvimento de aplicativos móveis com Flutter, trazendo performance e fluidez <br>
+    📱 <strong>Kotlin:</strong> A escolha para o desenvolvimento de aplicativos Android, combinando concisão e segurança <br>
+    🌐 <strong>HTML5 e CSS3:</strong> As bases do desenvolvimento web, essenciais para criar páginas bonitas e funcionais <br>
     🎯 <strong>Meta:</strong> Tornar-me Engenheira de Machine Learning, combinando inteligência artificial com software de alta performance <br>
     🎲 <strong>Curiosidade:</strong> Prefiro momentos tranquilos, onde posso refletir e me concentrar profundamente no que faço.
 </p>
@@ -40,4 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo" />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/rust/000000" height="50" alt="rust logo" />
+</div>
+
+###
+
+<div align="center" style="margin-top: 20px;">
+    <img src="https://media.giphy.com/media/JIXvnuhy6N0rC/giphy.gif" alt="Funny girl" width="300" />
 </div>
