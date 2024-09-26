@@ -14,7 +14,7 @@
 <p align="left" style="font-size: 1.2em; line-height: 1.5;">
     👩‍💻 <strong>Programando desde que "funciona na minha máquina"</strong> <br>
     🚀 <strong>Atualmente aprendendo Rust</strong> para explorar novas fronteiras em performance e segurança <br>
-    🐍 <strong>Especialista em Python:</strong> A linguagem que me ensinou que "import this" pode mudar a vida <br>
+    🐍 <strong>Python:</strong> A linguagem que me ensinou que "import this" pode mudar a vida <br>
     🎯 <strong>Meta:</strong> Tornar-me Engenheira de Machine Learning, combinando inteligência artificial com software de alta performance <br>
     🎲 <strong>Curiosidade:</strong> Prefiro momentos tranquilos, onde posso refletir e me concentrar profundamente no que faço. <br>
     🎥 <strong>Anime:</strong> Sou fã de anime e gosto de explorar novas histórias em mundos criativos.
