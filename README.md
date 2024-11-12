@@ -3,7 +3,7 @@
 
 ###
 
-<p align="center" style="font-size: 1.5em; color: #F39C12;">Meu nome é Ariana e sou Dev. Brasil-Am. 👽🌻</p>
+<p align="center" style="font-size: 1.5em; color: #F39C12;">Sou Dev. Brasil-Am. 👽🌻</p>
 
 ###
 
