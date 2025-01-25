@@ -12,12 +12,12 @@
 ###
 
 <p align="left" style="font-size: 1.2em; line-height: 1.5;">
-    👩‍💻 <strong>Programando desde que "funciona na minha máquina"</strong> <br>
-    🚀 <strong>Atualmente aprendendo Rust</strong> para explorar novas fronteiras em performance e segurança <br>
-    🐍 <strong>Python:</strong> A linguagem que me ensinou que "import this" pode mudar a vida <br>
-    🎯 <strong>Meta:</strong> Tornar-me Engenheira de Machine Learning, combinando inteligência artificial com software de alta performance <br>
-    🎲 <strong>Curiosidade:</strong> Prefiro momentos tranquilos, onde posso refletir e me concentrar profundamente no que faço. <br>
-    🎥 <strong>Anime:</strong> Sou fã de anime e gosto de explorar novas histórias em mundos criativos.
+👩‍💻 Programming since "it works on my machine"
+🚀 Currently learning Rust to explore new frontiers in performance and security
+🐍 Python: The language that taught me that "import this" can change lives
+🎯 Goal: Become a Machine Learning Engineer, combining artificial intelligence with high-performance software
+🎲 Fun fact: I prefer calm moments where I can reflect and deeply focus on what I'm doing
+🎥 Anime: I'm a fan of anime and enjoy exploring new stories in creative worlds
 </p>
 
 ###
