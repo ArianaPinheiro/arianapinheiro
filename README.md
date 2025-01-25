@@ -22,7 +22,7 @@
 
 🎲 Fun fact: I prefer calm moments where I can reflect and deeply focus on what I'm doing.
 
-🌍 Languages: Mandarin (学习普通话), Japanese (日本語), English, Korean (한국인), and Spanish. 
+🌍 Languages: Mandarin (学习普通话), Japanese (日本語), English, Korean (한국인) and Spanish. 
 
 🎥 Anime: I'm a fan of anime and enjoy exploring new stories in creative worlds.
 </p>
