@@ -1,13 +1,13 @@
 
-<h1 align="left" style="font-size: 2.5em; color: #4A90E2;"> 🌻🌻🌻🌻🌻🌻🌻Hello 👽 world!!!👋 🌻🌻🌻🌻🌻🌻🌻</h1>
+<h1 align="left" style="font-size: 2.5em; color: #4A90E2;"> ♠Hello World!!!♣👋👽 </h1>
 
 ###
 
-<p align="center" style="font-size: 1.5em; color: #F39C12;">I'm a Dev. Brazil-Am. 👽🌻</p>
+<p align="center" style="font-size: 1.5em; color: #F39C12;">🌻I'm a Dev 🇧🇷 👩‍💻</p>
 
 ###
 
-<h2 align="left" style="color: #E74C3C;">Sobre mim</h2>
+<h2 align="left" style="color: #E74C3C;">About me</h2>
 
 ###
 
@@ -22,12 +22,14 @@
 
 🎲 Fun fact: I prefer calm moments where I can reflect and deeply focus on what I'm doing.
 
+🌍 Languages: Mandarin (学习普通话), Japanese (日本語), English, Korean (한국인), and Spanish. 
+
 🎥 Anime: I'm a fan of anime and enjoy exploring new stories in creative worlds.
 </p>
 
 ###
 
-<h2 align="left" style="color: #8E44AD;">Codificando em</h2>
+<h2 align="left" style="color: #8E44AD;">Coding in</h2>
 
 ###
 
