@@ -13,11 +13,16 @@
 
 <p align="left" style="font-size: 1.2em; line-height: 1.5;">
 👩‍💻 Programming since "it works on my machine"
-🚀 Currently learning Rust to explore new frontiers in performance and security
-🐍 Python: The language that taught me that "import this" can change lives
-🎯 Goal: Become a Machine Learning Engineer, combining artificial intelligence with high-performance software
-🎲 Fun fact: I prefer calm moments where I can reflect and deeply focus on what I'm doing
-🎥 Anime: I'm a fan of anime and enjoy exploring new stories in creative worlds
+  
+🚀 Currently learning Rust to explore new frontiers in performance and security.
+
+🐍 Python: The language that taught me that "import this" can change lives.
+
+🎯 Goal: Become a Machine Learning Engineer, combining artificial intelligence with high-performance software.
+
+🎲 Fun fact: I prefer calm moments where I can reflect and deeply focus on what I'm doing.
+
+🎥 Anime: I'm a fan of anime and enjoy exploring new stories in creative worlds.
 </p>
 
 ###
