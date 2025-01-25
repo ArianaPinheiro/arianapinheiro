@@ -1,9 +1,9 @@
 
-<h1 align="left" style="font-size: 2.5em; color: #4A90E2;"> 🌻🌻🌻🌻🌻🌻🌻Olá👋 🌻🌻🌻🌻🌻🌻🌻</h1>
+<h1 align="left" style="font-size: 2.5em; color: #4A90E2;"> 🌻🌻🌻🌻🌻🌻🌻Hello 👽 world!!!👋 🌻🌻🌻🌻🌻🌻🌻</h1>
 
 ###
 
-<p align="center" style="font-size: 1.5em; color: #F39C12;">Sou Dev. Brasil-Am. 👽🌻</p>
+<p align="center" style="font-size: 1.5em; color: #F39C12;">I'm a Dev. Brazil-Am. 👽🌻</p>
 
 ###
 
